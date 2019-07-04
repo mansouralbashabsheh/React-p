@@ -1,0 +1,12 @@
+{
+    "users":[
+        {"id":"1","icon":"fas fa-user","name":"mansour","age":"18","desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry"},
+        {"id":"2","icon":"fas fa-user","name":"hani","age":"25","desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry"},
+        {"id":"3","icon":"fas fa-user","name":"soma","age":"22","desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry"},
+        {"id":"4","icon":"fas fa-user","name":"suad","age":"23","desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry"},
+        {"id":"5","icon":"fas fa-user","name":"ahmad","age":"85","desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry"}
+    ] ,
+
+    "animals" :[{"id":2,"name":"tiger","photo":"/images/2.jpg"},{"id":3,"name":"elepahnt","photo":"/images/3.jpg"}
+        ,{"id":4,"name":"rabbit","photo":"./images/4.jpg"}]
+}

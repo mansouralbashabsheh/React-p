@@ -1,4 +1,5 @@
 {
+  "homepage": "https://github.com/mansouralbashabsheh/React-p",
   "name": "testapp",
   "version": "0.1.0",
   "private": true,
@@ -9,6 +10,8 @@
     "react-scripts": "3.0.1"
   },
   "scripts": {
+    "predeploy":"npm run bulid",
+    "deploy":"gh-pages -d bulid",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
